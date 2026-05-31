@@ -84,7 +84,7 @@ pytest tests/ -v
 
 ## Deploy to Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/template/railway-barcode-api)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/qr-barcode-generator-api)
 
 Click the button above, or follow these steps:
 1. Fork/push this repo to your GitHub
